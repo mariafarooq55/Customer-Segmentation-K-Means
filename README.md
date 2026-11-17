@@ -55,7 +55,9 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-Then open the local URL shown in the terminal in your browser.
+## Live link of the project:
+
+https://customer-segmentation-k-means-nrgednx7ew6chsxnsjxvpd.streamlit.app/
 
 ## Example workflow
 
